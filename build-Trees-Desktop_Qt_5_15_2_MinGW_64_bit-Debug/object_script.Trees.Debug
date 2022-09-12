@@ -1,0 +1,16 @@
+debug/AVL.o
+debug/RB_Tree.o
+debug/SplayTree.o
+debug/Treap.o
+debug/abstractnode.o
+debug/avl_node.o
+debug/bettergraphicsscene.o
+debug/bettergraphicsview.o
+debug/main.o
+debug/mainwindow.o
+debug/rb_node.o
+debug/splaynode.o
+debug/treenodeellipse.o
+debug/moc_bettergraphicsscene.o
+debug/moc_mainwindow.o
+debug/moc_treenodeellipse.o
